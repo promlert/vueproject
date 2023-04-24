@@ -1,4 +1,4 @@
-# vueproject
+# vue-3-crud
 
 ## Project setup
 ```

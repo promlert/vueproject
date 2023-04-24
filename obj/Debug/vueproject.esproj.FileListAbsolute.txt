@@ -1,0 +1,2 @@
+C:\Users\Promlert\Documents\Project\ASLFund\vueproject\obj\Debug\vueproject.esproj.SuggestedBindingRedirects.cache
+C:\Users\Promlert\Documents\Project\ASLFund\vueproject\obj\Debug\vueproject.esproj.CoreCompileInputs.cache
